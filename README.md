@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Install](https://img.shields.io/badge/⬇_Install_Script-7aa2f7?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/cthboss001/Cf-submission-fetcher/main/Cf%20submission%20fetcher.js)
+[![Install](https://img.shields.io/badge/⬇_Install_Script-7aa2f7?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/cthboss001/Cf-submission-fetcher/main/cf_submission_fetcher.user.js)
 [![Tampermonkey](https://img.shields.io/badge/Requires-Tampermonkey-bb9af7?style=for-the-badge)](https://www.tampermonkey.net/)
 [![Codeforces](https://img.shields.io/badge/Works_on-Codeforces-f7768e?style=for-the-badge)](https://codeforces.com)
 
